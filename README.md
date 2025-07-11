@@ -25,3 +25,7 @@ This project analyzes 1.6 million tweets and 5 years of website visitor data usi
 - Use of transformer-based models (BERT/GPT) for better sentiment context.
 - Expand analysis to include other social media platforms.
 - Real-time tweet tracking and visual dashboards.
+
+## 📁 Dataset Sources
+- [Sentiment140 Twitter Dataset](https://www.kaggle.com/kazanova/sentiment140)
+- [Daily Website Visitors Dataset](https://www.kaggle.com/bobnau/daily-website-visitors)
