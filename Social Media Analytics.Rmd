@@ -1,8 +1,5 @@
 ---
 title: "Social Media Analytics"
-author: "Group 9 - Thomas George Thomas, Yang Liu, Pratyush Pothuneedi"
-date: "17/07/2024"
-output: pdf_document
 ---
 
 ```{r setup, include=FALSE}
@@ -427,5 +424,3 @@ plot(rqa.analysis)
 # 3. Summary
 
 After careful analysis of 1.6 million worth of twitter data, We were able to decipher lot of emerging patterns and visualize them. We were able to gain valuable insights about our business questions through various plots,text analysis/mining, clustering, probability and time series data.
-
-**All students of Group 9 - Thomas George Thomas, Yang Liu, Pratyush Pothuneedi contributed equally to the project.**
